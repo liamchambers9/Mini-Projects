@@ -17,4 +17,34 @@ Harness Kusto Query Language (KQL) for Log Exploration
 Create Custom Analytic Rules to Identify Microsoft Security Incidents
 
 
+
+My Topology: Microsoft Azure Cloud Security & Detection 
 ![image](https://github.com/liamchambers9/My-Projects/assets/101218893/36ead783-dd1b-42ec-8c04-a895eaec65c4)
+
+
+Acknowledgments
+A huge thank you to the original content creator Charles Quansah @CyberWox Academy. Please make sure to make a visit
+
+The Resources used in this article came from the following:
+
+
+https://cyberwoxacademy.com/azure-cloud-detection-lab-project/?source=post_page-----8bba1f31315--------------------------------
+
+
+https://youtu.be/Ttcv75dV-00?si=fXOOntnqkdXpIOu5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
