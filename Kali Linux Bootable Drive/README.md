@@ -1,5 +1,6 @@
 
 Full walkthrough on [My Blog](https://medium.com/@liam.chambers/creating-a-kali-linux-bootable-drive-4f47d63fa6ff)
+![image](https://github.com/liamchambers9/My-Projects/assets/101218893/441222b7-a195-4699-98a9-95e4ae725e0d)
 
 
 Kali Linux is a powerful distribution packed with security and penetration testing tools. But what if you don’t want to dedicate your whole hard drive to it? This is where a bootable Kali Linux USB drive comes in.
